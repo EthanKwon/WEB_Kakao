@@ -228,7 +228,7 @@
 }
 
 /* 0 ~ 360px - mobile */
-@media (max-width: 360px) {
+@media (max-width: 480px) {
   /* 모바일 컨테이너 */
   .container {
     padding: 0;

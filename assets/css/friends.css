@@ -293,28 +293,6 @@
     margin: 70px 0;
   }
 
-  .profile .info .info_photo img {
-    width: 40px;
-    height: 40px;
-  }
-
-  .profile .info .info_contents {
-    font-size: 10px;
-  }
-
-  .friend .info .info_photo img {
-    width: 30px;
-    height: 30px;
-  }
-
-  .friend .info .info_contents {
-    font-size: 10px;
-  }
-
-  .friend .info .info_description {
-    font-size: 6px;
-  }
-
   #footer {
     display: none;
   }
